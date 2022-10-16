@@ -19,3 +19,5 @@ Let me start about myself:
 - Follow me on Instagram- <a href="https://www.instagram.com/ramniwasmahala2002/">@Instagram</a>
 
 - Check my hackerrank profile- <a href="https://www.hackerrank.com/ramniwasmahala11">@Hackerrank</a>
+
+> ![Github stats](https://github-readme-stats.vercel.app/api?username=RamniwasMahala007&theme=highcontrast&show_icons=true&count_private=true)
