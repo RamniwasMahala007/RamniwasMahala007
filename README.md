@@ -20,4 +20,21 @@ Let me start about myself:
 
 </p>
 
+![dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
+## ⚡ Technologies
+
+### Language
+
+![C](https://img.shields.io/badge/-C-E34A86?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-Javascript-1572B6?style=flat-square&logo=javascript)
+
+> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamniwasMahala007&show_icons=true&locale=en&layout=compact" alt="RamniwasMahala007"/>
+
 > ![Github stats](https://github-readme-stats.vercel.app/api?username=RamniwasMahala007&theme=highcontrast&show_icons=true&count_private=true)
