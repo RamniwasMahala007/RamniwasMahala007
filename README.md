@@ -3,6 +3,8 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Ramniwas-Mahala."/>
     <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Learning-React."/>
 </p>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 Let me start about myself:
 
 - 🔭 I’m currently working on my portfolio
