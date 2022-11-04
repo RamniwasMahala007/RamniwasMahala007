@@ -17,7 +17,7 @@ Let me start about myself:
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/ramniwas-mahala-5a1a5b1a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramniwas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ramniwasmahala2002/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ramniwas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ramniwas___jaat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ramniwas" height="30" width="40" /></a>
 <a href="https://twitter.com/RamniwasMahal14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ramniwas" height="30" width="40" /></a>
 
 </p>
